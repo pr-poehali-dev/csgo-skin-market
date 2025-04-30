@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { SteamIcon } from "lucide-react";
+import { LogIn } from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -35,7 +35,7 @@ const Navbar = () => {
             </div>
           ) : (
             <Button className="bg-[#1b2838] hover:bg-[#2a475e] text-white flex items-center space-x-2">
-              <SteamIcon className="w-5 h-5" />
+              <LogIn className="w-5 h-5" />
               <span>Войти через Steam</span>
             </Button>
           )}
