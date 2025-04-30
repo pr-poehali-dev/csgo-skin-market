@@ -11,7 +11,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center space-x-2">
           <span className="text-2xl font-bold font-gaming bg-clip-text text-transparent bg-gradient-to-r from-cs2-blue to-cs2-yellow">
-            CS2 МАРКЕТ
+            CS2 AIM
           </span>
         </div>
 

@@ -43,7 +43,7 @@ const Index = () => {
       <section className="pt-28 pb-16 px-4 md:px-0">
         <div className="container mx-auto text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6 font-gaming bg-clip-text text-transparent bg-gradient-to-r from-cs2-blue via-cs2-yellow to-cs2-red">
-            CS2 МАРКЕТ
+            CS2 AIM
           </h1>
           <p className="text-xl max-w-3xl mx-auto mb-8 text-gray-300">
             Эксклюзивные скины, низкие цены и мгновенная доставка для твоей победы в CS2!
@@ -128,7 +128,7 @@ const Index = () => {
       <footer className="bg-black/80 text-gray-400 py-8">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p>© 2025 CS2 МАРКЕТ. Все права защищены.</p>
+            <p>© 2025 CS2 AIM. Все права защищены.</p>
             <div className="mt-4 md:mt-0">
               <a href="#" className="hover:text-white mr-4">Условия использования</a>
               <a href="#" className="hover:text-white">Политика конфиденциальности</a>
